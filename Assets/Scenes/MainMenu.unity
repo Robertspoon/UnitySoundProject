@@ -2853,7 +2853,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: fb615ef047dce004280c6ff5f9f419dd, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -2861,7 +2861,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 160
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -2952,11 +2952,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerShoot: {fileID: 8300000, guid: 99c2e7b5a9d31a447a00e0a411437d41, type: 3}
-  asteroidExplosion: {fileID: 8300000, guid: ce79441a4ff22744fb9389922b63395d, type: 3}
-  playerDamage: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
+  asteroidExplosion: {fileID: 8300000, guid: ea04c2e0327537840b3e50113f50c8e2, type: 3}
+  playerDamage: {fileID: 8300000, guid: d759baa9fec42704ba4afc34bebe6f9d, type: 3}
   playerExplosion: {fileID: 8300000, guid: 128f7413aeb34e74688f3163e3a59a33, type: 3}
-  BgMusicGameplay: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
-  BgMusicTitleScreen: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
+  BgMusicGameplay: {fileID: 8300000, guid: 51ea25cd81d380f4ea315a83cbc420b5, type: 3}
+  BgMusicTitleScreen: {fileID: 8300000, guid: 3bb6bbdc51431dc429a4e91d0fe154df, type: 3}
 --- !u!4 &1337980917
 Transform:
   m_ObjectHideFlags: 0
